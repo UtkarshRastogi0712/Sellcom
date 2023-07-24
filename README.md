@@ -1,0 +1,2 @@
+# Sellcom
+Fullstack ecommerce application
